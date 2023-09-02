@@ -1,0 +1,12 @@
+{
+  "require": {
+    "drupal/recommended-project": "*"
+  },
+  "config": {
+    "allow-plugins": {
+      "drupal/core-project-message": true,
+      "drupal/core-composer-scaffold": true,
+      "composer/installers": true
+    }
+  }
+}
